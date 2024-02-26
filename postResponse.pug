@@ -1,0 +1,8 @@
+extends layout
+
+block content
+    h1= "JSON Response"
+    p JSON Object:
+    pre
+        code
+            | #{JSON.stringify(response)}
