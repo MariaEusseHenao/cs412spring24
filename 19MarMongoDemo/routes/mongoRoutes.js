@@ -6,12 +6,12 @@ const db = require('../mongoCx');
 router.route('/') //RESTful, so CREATE = POST
     .post(async (req, res) => {
     let mongo = await db.getDB('cs412');
-    let results = await mongo.collection('fall23names').insertOne(req.body);
+    let results = await mongo.collection('spr24names').insertOne(req.body);
     res.send(`Inserted ${req.body.name}`);
 })
     .get(async (req, res) => {
         let mongo = await db.getDB('cs412');
-        let results = await mongo.collection('fall23names').find({name: 'Bob'}).toArray();
+        let results = await mongo.collection('spr24names').find({name: 'Bob'}).toArray();
         if (!results.length)  {
             res.send('Not found');
         }
@@ -19,10 +19,11 @@ router.route('/') //RESTful, so CREATE = POST
             res.json(results);
         }
     })
+    .put()
 //use named parameter :name, like http://localhost/mongo/fred (fred is the named param)
     router.get('/:name', async (req, res) => {
         let mongo = await db.getDB('cs412');
-        let results = await mongo.collection('sum23names').find({name: req.params.name}).toArray();
+        let results = await mongo.collection('spr24names').find({name: req.params.name}).toArray();
         if (!results.length)  {
             res.send('Not found');
         }
@@ -30,5 +31,15 @@ router.route('/') //RESTful, so CREATE = POST
             res.json(results);
         }
     })
+        .delete('/:name', async (req, res) => {
+            let mongo = await db.getDB('cs412');
+            let results = await mongo.collection('spr24names').findOneAndDelete({name: req.params.name});
+            if (!results.length)  {
+                res.send('Not found');
+            }
+            else {
+                res.json(results);
+            }
+        })
 
 module.exports = router;
