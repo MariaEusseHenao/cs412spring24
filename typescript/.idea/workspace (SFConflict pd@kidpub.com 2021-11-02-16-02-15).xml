@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c42f238-d1f2-4efb-a27d-a00678e4cf34" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/app/CONTACT.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/app/CONTACTS-MOCK.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angularDemo2/tslint.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="ProjectId" id="1dUk5O9MW0Y6mLy1aAXmvWLkZdW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ECMAScript 6&#10;TypeScript" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="ECMAScript 6" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="15.1.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="15.14.9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.tslint" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.scratch_19.es6">
+    <configuration name="breaker.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/breaker.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="enums.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="enums.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="interfaces.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="interfaces.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_19.es6" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.es6" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="typing.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="typing.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.interfaces.js" />
+      <item itemvalue="Node.js.typing.js" />
+      <item itemvalue="Node.js.enums.js" />
+      <item itemvalue="Node.js.breaker.js" />
+      <item itemvalue="Node.js.scratch_19.es6" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.scratch_19.es6" />
+        <item itemvalue="Node.js.typing.js" />
+        <item itemvalue="Node.js.breaker.js" />
+        <item itemvalue="Node.js.enums.js" />
+        <item itemvalue="Node.js.interfaces.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c42f238-d1f2-4efb-a27d-a00678e4cf34" name="Default" comment="" />
+      <created>1528848317461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528848317461</updated>
+      <workItem from="1528848318802" duration="3307000" />
+      <workItem from="1528899228723" duration="5859000" />
+      <workItem from="1529522768048" duration="489000" />
+      <workItem from="1560115479203" duration="827000" />
+      <workItem from="1560176501038" duration="3631000" />
+      <workItem from="1560210286546" duration="676000" />
+      <workItem from="1560253884271" duration="4000" />
+      <workItem from="1572535627980" duration="2210000" />
+      <workItem from="1572551446745" duration="2767000" />
+      <workItem from="1572970831460" duration="17000" />
+      <workItem from="1592486876116" duration="903000" />
+      <workItem from="1592487932419" duration="5097000" />
+      <workItem from="1592591825423" duration="657000" />
+      <workItem from="1592764127858" duration="364000" />
+      <workItem from="1592765449304" duration="579000" />
+      <workItem from="1592833922000" duration="272000" />
+      <workItem from="1623855224301" duration="2075000" />
+      <workItem from="1623935864083" duration="662000" />
+      <workItem from="1624281678600" duration="386000" />
+      <workItem from="1624369914082" duration="567000" />
+      <workItem from="1635880059467" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo1.js" />
+        <option value="$PROJECT_DIR$/enums.js" />
+        <option value="$PROJECT_DIR$/arrows.js" />
+        <option value="$PROJECT_DIR$/interfaces.js" />
+        <option value="$PROJECT_DIR$/objects.js" />
+        <option value="$PROJECT_DIR$/divider.js" />
+        <option value="$PROJECT_DIR$/Egg.js" />
+        <option value="$PROJECT_DIR$/typing.js" />
+        <option value="$PROJECT_DIR$/getters-setters.js" />
+        <option value="$PROJECT_DIR$/inheritance.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="648" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1635880327483">
+      <screen x="0" y="23" width="1920" height="999" />
+    </state>
+    <state x="648" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.999/1920.23.1920.1057/-1920.127.1920.1057@0.23.1920.999" timestamp="1635880327483" />
+  </component>
+</project>
