@@ -6,7 +6,6 @@ const createClient = require('redis').createClient;
 const client = createClient();
 
 client.on('error', err => console.log('Redis Client Error', err));
-
 /* GET home page. */
 router.get('/', async function(req, res, next) {
   await client.connect();
