@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+Way 3: FormGroup as a way to contain FormControls
+Note that we're using formControlName here to get to controllers inside the form
+Note that this also works with FormBuilder service (same syntax in HTML)
+
+
+<br/>
+<form [formGroup]="weatherFormGroup" (ngSubmit)="getWeatherByCityWay3()">
+  <input data-cy="city-input" formControlName="cityControl3">
+  <input data-cy="state-input" formControlName="stateControl3">
+  <button data-cy="submit-button" type="submit">Submit</button>
+</form>
+
+<p data-cy="temperature">Temperature: {{temperature}}</p>
+<p data-cy="humidity">Humidity: {{humidity}}</p>
+<p data-cy="pressure">Pressure: {{pressure}}</p>
+
+<hr/>
+</body>
+</html>
+<!--npx cypress open-->
